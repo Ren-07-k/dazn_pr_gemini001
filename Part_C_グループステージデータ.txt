@@ -1,0 +1,32 @@
+# Group Stage Data for 2026 FIFA World Cup
+
+## Tournament Format
+The 2026 FIFA World Cup will feature an expanded tournament format with 48 teams participating. The teams will be split into 16 groups of 3 teams each. The top 2 teams from each group will advance to the knockout stage.
+
+## Group Combinations
+Each group will consist of three teams competing against one another. Here are all possible group combinations:
+
+- Group A: Team 1, Team 2, Team 3
+- Group B: Team 4, Team 5, Team 6
+- Group C: Team 7, Team 8, Team 9
+- Group D: Team 10, Team 11, Team 12
+- Group E: Team 13, Team 14, Team 15
+- Group F: Team 16, Team 17, Team 18
+- Group G: Team 19, Team 20, Team 21
+- Group H: Team 22, Team 23, Team 24
+- Group I: Team 25, Team 26, Team 27
+- Group J: Team 28, Team 29, Team 30
+- Group K: Team 31, Team 32, Team 33
+- Group L: Team 34, Team 35, Team 36
+- Group M: Team 37, Team 38, Team 39
+- Group N: Team 40, Team 41, Team 42
+- Group O: Team 43, Team 44, Team 45
+- Group P: Team 46, Team 47, Team 48
+
+## Group Analysis
+Each team plays the other two teams in their group once, with a total of 3 matches per group. The points are allocated as follows:
+- Win: 3 points
+- Draw: 1 point
+- Loss: 0 points
+
+After all matches, the teams will be ranked by points, goal difference, and goals scored to determine the top two teams that will proceed to the knockout stage.
